@@ -1,3 +1,5 @@
 MasterNew1
+newline
 Second Line
 Third Line
+newline2
